@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div>
+<h3>What is the capital of India</h3>
+<form action="">
+<input type="radio" name="state" value="New delhi">
+   <label for="">New Delhi</label><br>
+
+   <input type="radio" name="state" value="Mumbai">
+   <label for="">Mumbai</label>
+
+</form>
+<blockquote class="text" >Text to be rendered in blockquote: New Delhi is the capital of India and an administrative district of NCT Delhi.</a></blockquote>
+    </div>
+    <!-- the entire body must be written by student -->
+    <script type="text/javascript" src="./script.js">
+</script>
+
+</body>
+
+</html>
